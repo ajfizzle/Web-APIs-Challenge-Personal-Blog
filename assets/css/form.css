@@ -2,7 +2,7 @@
     display: inline-block;
     width: 47%;
     min-height: auto;
-    background: whitesmoke;
+    background: var(--second-bg-color);
     margin: 60px;
 }
 
