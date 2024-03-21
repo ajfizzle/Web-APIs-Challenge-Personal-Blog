@@ -1,5 +1,5 @@
 # personal-blog
-Bootcamp HTML /CSS exercise 4
+Bootcamp HTML /CSS Module 4 Challenge
 # Personal Blog Web APIs Challenge
 
 ## User Story
