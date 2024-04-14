@@ -1,6 +1,6 @@
-# personal-blog
-Bootcamp HTML /CSS Module 4 Challenge
 # Personal Blog Web APIs Challenge
+Module 4 Challenge
+
 
 ## User Story
 As a marketing student, I want a personal blog so that I can showcase my thoughts and experiences.
